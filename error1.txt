@@ -1,0 +1,38 @@
+Traceback (most recent call last):
+  File "ScrapingSIGEL_V01_01_CobDu.py", line 5, in <module>
+    from selenium import webdriver # SOLO con selenium podemos usar driver para automatización web
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\__init__.py", line 20, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\chrome\webdriver.py", line 22, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\chromium\webdriver.py", line 25, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\remote\webdriver.py", line 75, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\remote\websocket_connection.py", line 19, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "ssl.py", line 100, in <module>
+ImportError: DLL load failed while importing _ssl: No se puede encontrar el módulo especificado.
+[PYI-3552:ERROR] Failed to execute script 'ScrapingSIGEL_V01_01_CobDu' due to unhandled exception!
+
+---------------------------------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "ScrapingSIGEL_V01_01_CobDu.py", line 5, in <module>
+    from selenium import webdriver # SOLO con selenium podemos usar driver para automatización web
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\__init__.py", line 20, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\chrome\webdriver.py", line 22, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\chromium\webdriver.py", line 25, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\remote\webdriver.py", line 75, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "selenium\webdriver\remote\websocket_connection.py", line 19, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "ssl.py", line 100, in <module>
+ImportError: DLL load failed while importing _ssl: No se puede encontrar el módulo especificado.
