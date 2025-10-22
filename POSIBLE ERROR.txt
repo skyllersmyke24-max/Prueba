@@ -1,6 +1,0 @@
-ruc, nombre, nro_documento, ruc_rrll, nombre_Razon_Social datos completos y correctos
-estado, procedimiento, tipo_procedimiento los rellena con ";;". resultado_nro_documento, resultado_ruc_rrll, resultado_nombre, rellenados con "No se encontró" 
-ademas de que en las capturas, resulta que nunca realizó la búsqueda, tomo capturas con el errode inicio de demorar de mas de 60 segundos.
-Y verificando las capturas, se ve que por ejemplo: 20338405864_NOMBRE_RAZON_SOCIAL_BRAVO GARCIA LUIS FELIPE_inicio png, se ve en la captura que en ese 
-momento tenia alertas con el siguiente mensaje "El proceso no se ha iniciado en 60 segundos", esta alerta aparece varias veces en la captura tomada, 
-como pareciendo que el bot hubiese intentado he intentado pero no pudo. 
