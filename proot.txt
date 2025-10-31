@@ -1,0 +1,12 @@
+estos son los datos recopilados del login:
+https://intranet.sunat.peru/cl-at-iamenu/
+<td class="hd8">Usuario : </td>
+<td> <input class="form-text" type="text" name="cuenta" value="" maxlength="15" size="15" title="Ingrese su código de usuario" onblur="this.value=this.value.toUpperCase()" onchange="this.value=this.value.toUpperCase()"> </td>
+<td class="hd8">Clave : </td>
+<td> <input class="form-text" type="password" name="password" value="" maxlength="15" size="15" title="Ingrese su clave de acceso" onkeypress="return submitIA(this,event)"> </td>
+Botón de iniciar sesion:
+<input class="form-button" type="button" value="Iniciar Sesion" onclick="validaIA()">
+para este test, al no tener credenciales, se tendra que generar un path donde estara el txt de usuario y contraseña a fin de que el que si tiene acceso puedo colocar sus credenciales y iniciar con este test.
+una vez logueado correctamente, se tendra que buscar un boton que tenga que ver con "Tributarios", una vez encontrado este boton, tiene que buscar otro boton que tiene que ver con "Notificacines", "Sistema de Notificaciones".
+
+
