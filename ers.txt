@@ -1,0 +1,3 @@
+RUC (20600277171), DEPENDENCIA (seran dos dependencias 0021 I.R. Lima - PRICO y 0023 I.R. Lima - MEPECO, las cuales podran tener un diccionario que reconocera estas dependencias 21,021,0021 y 23,023,0023), EXPEDIENTE (0290062895173), INTERVENTOR (485A), PLAZO (3), MONTO(5000), TIPO DE MEDIDA (habran dos tipos de medida, IEI y DSE), REGISTRO_EJECUTOR (Esto aun se definira ya que se vera si el bot podra captar e identificar el código de registro del ejecutor, o simplemente identificar su nombre completo del ejecutor en ese momento), RESULTADO (en esta columna se mostrara el resultado de busqueda de cada expediente, y se mostrara segun lo establecido mas adelante)
+
+ 
